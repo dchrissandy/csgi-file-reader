@@ -1,5 +1,6 @@
 # csgi-file-reader
 to build jar files : mvn clean package
+
 run the jar using : java -jar target/file-name.jar file1.txt file2.txt
 
 # sample file file1.txt
